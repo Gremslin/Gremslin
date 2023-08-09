@@ -1,19 +1,25 @@
-<div dsplay="inline-block">
- 
- <h1 align="center">Sarah</h1>
-</div>
-
+ <p align="center">
+  <img src="https://media.giphy.com/media/N439HWvAHsyMVeeX4v/giphy.gif">
 <p align="center">
   <img src="https://media0.giphy.com/media/m6aZERsqxPiBa/giphy.gif?cid=ecf05e47i1n3j94vsbozgpbnnrzlqlwsuf6kuumszakirjh1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350">
+ <p align="center">
+  <img src="https://media.giphy.com/media/N439HWvAHsyMVeeX4v/giphy.gif">
 </p>
 
-### 🖥️ Tecnologias: 
+### 👋 Howdy!
+<p align="center">I'm Sarah, a brazilian little gremlin who learns programming for a hobby and aims to be a computer engineer someday.
+</p>
+
+### 🖥️ Tech and tools: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 
 <div display="inline-block">
- <p align="left">📚 Comecei a estudar Python pra fugir de química e física;</p>
- <p align="left">🎮 Amo pokemon e sou dependente de LoL.</p>
+ 
+### 🕶 Fun Facts:
+ <p align="left">📚 Started learning Python as a way to flee from studying chemistry and physics;</p>
+ <p align="left">🥦 I'm a vegetarian;</p>
+ <p align="left">🎮 Love Pokemon games and play League of Legends when I'm in the mood for questioning all my life choices.</p>
 </div>
 
 ##
