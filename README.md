@@ -28,6 +28,8 @@
 <p align="center">
 <a href="https://github.com/Gremslin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gremslin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gremslin&layout=compact&langs_count=7&theme=algolia"/>
 
 </a>
 </p>
