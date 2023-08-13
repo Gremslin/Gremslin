@@ -1,9 +1,9 @@
  <p align="center">
-  <img src="https://media.giphy.com/media/N439HWvAHsyMVeeX4v/giphy.gif">
+  <img src="https://media0.giphy.com/media/35GLMzlUfq7iPwaSzi/giphy.gif?cid=6c09b952fx2j3k42uhno9iom9ny5w73eknvhhdu3p6guol2n&rid=giphy.gif&ct=s" width="450" height=60>
 <p align="center">
   <img src="https://media.tenor.com/X_5a8YB4ersAAAAd/racoons.gif" width="350">
  <p align="center">
-  <img src="https://media.giphy.com/media/N439HWvAHsyMVeeX4v/giphy.gif">
+  <img src="https://media0.giphy.com/media/35GLMzlUfq7iPwaSzi/giphy.gif?cid=6c09b952fx2j3k42uhno9iom9ny5w73eknvhhdu3p6guol2n&rid=giphy.gif&ct=s" width="450" height=60>
 </p>
 
 ### 👋 Howdy!
