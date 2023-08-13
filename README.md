@@ -1,7 +1,7 @@
  <p align="center">
   <img src="https://media.giphy.com/media/N439HWvAHsyMVeeX4v/giphy.gif">
 <p align="center">
-  <img src="https://media0.giphy.com/media/m6aZERsqxPiBa/giphy.gif?cid=ecf05e47i1n3j94vsbozgpbnnrzlqlwsuf6kuumszakirjh1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350">
+  <img src="https://media.tenor.com/X_5a8YB4ersAAAAd/racoons.gif" width="350">
  <p align="center">
   <img src="https://media.giphy.com/media/N439HWvAHsyMVeeX4v/giphy.gif">
 </p>
